@@ -1,1 +1,2 @@
 hi text changed manually
+new text added from new git account
